@@ -9,7 +9,7 @@ public class premetives {
 //     double largedecimalNUmbers = 12123.12312123123;
 //     long largeInteger = 231231212312312L ;
 
-        
+
 
     }
 
